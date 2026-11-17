@@ -16,3 +16,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "KotlinCalculator"
 include(":app")
+include(":shared")
