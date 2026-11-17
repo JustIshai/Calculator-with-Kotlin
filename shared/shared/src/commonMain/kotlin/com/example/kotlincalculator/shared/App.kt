@@ -123,7 +123,7 @@ fun App() {
                 Row(modifier = Modifier.fillMaxWidth()) {
                     CalculatorKey("4") { pressDigit("4") }
                     CalculatorKey("5") { pressDigit("5") }
-                    CalculatorKey("6") { chooseOperator("+") }
+                    CalculatorKey("6") { chooseOperator("6") }
                     CalculatorKey("+") { chooseOperator("+") }
                 }
 
