@@ -1,4 +1,6 @@
-name: Build Android APK
+git add .
+git commit -m "Add icon resource folders"
+git pushname: Build Android APK
 
 on:
   push:
